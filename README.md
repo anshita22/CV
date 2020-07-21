@@ -1,2 +1,2 @@
-Assignment 1 - OpenCV workshop 
+Assignments - OpenCV workshop 
 organized by GirlScript India Summit
